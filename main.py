@@ -5,7 +5,7 @@ from random import random
 
 def main(enter):
     root = Tk()
-    root.title('Hypocloid')
+    root.title('Hypocycloid')
     canvas = Canvas(root, width=1000, height=1000, bg='white')
     canvas.pack()
     root.resizable(True, True)
